@@ -1,0 +1,25 @@
+.flex {
+    display: flex;
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.invert {
+    filter: invert(100%);  /*it is use to invert the color of svg from black to white */
+}
+
+.bg-grey {
+    background-color: #121212;
+}
+
+.border-round {
+    border-radius: 9px;
+
+}
+
+.m-7 {
+    margin: 7px;
+}
